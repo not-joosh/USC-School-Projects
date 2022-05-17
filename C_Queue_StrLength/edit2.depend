@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1649389199 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #4\queue\newedit\edit2\queue.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"queue.h"
+	"menu.h"
+
+1649385835 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #4\queue\newedit\edit2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"menu.h"
+	"queue.h"
+
+1649385600 c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #4\queue\newedit\edit2\queue.h
+	<stdbool.h>
+
+1649388954 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #4\queue\newedit\edit2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"queue.h"
+	"menu.h"
+
+1649390058 c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #4\queue\newedit\edit2\menu.h
+	"queue.h"
+

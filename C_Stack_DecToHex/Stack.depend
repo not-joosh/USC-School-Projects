@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1649332550 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #4\stack\drafts\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"stack.h"
+	"menu.h"
+
+1649335824 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #4\stack\drafts\stack\stack.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<stdlib.h>
+	"menu.h"
+	"stack.h"
+
+1649331237 c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #4\stack\drafts\stack\stack.h
+	<stdbool.h>
+
+1649335496 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #4\stack\drafts\stack\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	"menu.h"
+	"stack.h"
+
+1649334020 c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #4\stack\drafts\stack\menu.h
+	"stack.h"
+
+1649335498 source:c:\users\pc\downloads\stack\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	"menu.h"
+	"stack.h"
+
+1649334022 c:\users\pc\downloads\stack\menu.h
+	"stack.h"
+
+1649331238 c:\users\pc\downloads\stack\stack.h
+	<stdbool.h>
+
+1649336218 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #4\stack\stackdraftfinal\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<windows.h>
+	"stack.h"
+	"menu.h"
+
+1649337978 c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #4\stack\stackdraftfinal\stack\stack.h
+	<stdbool.h>
+
+1649338100 c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #4\stack\stackdraftfinal\stack\menu.h
+	"stack.h"
+

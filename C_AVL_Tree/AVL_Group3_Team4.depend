@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1652196671 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #5\avl_group3_team4\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"AVL.h"
+
+1652196661 c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #5\avl_group3_team4\avl.h
+	<stdbool.h>
+
+1652197668 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #5\avl_group3_team4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"AVL.h"
+
