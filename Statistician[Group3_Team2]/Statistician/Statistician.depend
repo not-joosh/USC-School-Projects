@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1646026342 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #2\codeblock\final_draft\statistician_[group3_team2]final\statistician\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Statistician.h"
+
+1646026464 c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #2\codeblock\final_draft\statistician_[group3_team2]final\statistician\statistician.h
+
+1646100576 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #2\codeblock\finaldraft\statistician[group3_team2]\statistician\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Statistician.h"
+
+1646386782 c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #2\codeblock\finaldraft\statistician[group3_team2]\statistician\statistician.h
+
+1646654414 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #2\codeblock\finaldraft\statistician[group3_team2]\statistician\statistician.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	"Statistician.h"
+
