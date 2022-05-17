@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1647418420 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #3\search code\search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"search.h"
+
+1647417630 c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #3\search code\search\search.h
+
+1647418287 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #3\search code\search\search.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"search.h"
+
+1647418420 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #3\search code\final  output\search\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"search.h"
+
+1647417630 c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #3\search code\final  output\search\search.h
+
+1647473678 source:c:\users\joshr\onedrive\desktop\university of san carlos\usc 2021-second semester year 2\cpe lab\c-practice programming\coding assignments\group projects\code project #3\search code\final  output\search\search.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"search.h"
+
